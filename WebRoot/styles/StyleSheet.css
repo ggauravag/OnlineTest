@@ -1,0 +1,123 @@
+﻿
+
+body {
+}
+
+
+  #top {
+            margin-top: -31px;
+            margin-left:2px;
+            margin-right:2px;
+        }
+
+        #left {
+            width: 100px;
+            background-color: #666666;
+            background-color: darkgrey;
+            margin-left: -10px;
+            margin-bottom: -10px;
+            margin-top: -10px;
+            margin-right: -3px;
+            height: 885px;
+        }
+
+        #right {
+            width: 100px;
+            background-color: darkgrey;
+            margin-right: -10px;
+            margin-bottom: -10px;
+            margin-top: -10px;
+            margin-left: -3px;
+            height: 885px;
+        }
+
+        #mar {
+            margin-top: -20px;
+        }
+
+        #content {
+            
+            font-family: Consolas;
+            height:550px;
+            text-align:center;
+            
+            width:1000px;
+           
+        }
+
+        #center
+        {
+            width:1150px;
+        }
+
+        #bot {
+            height: 90px;
+            text-align: center;
+            font-family: Verdana;
+            color: white;
+            margin-bottom: -40px;
+            margin-right:2px;
+            margin-left:2px;
+        }
+
+#menu {
+    width: 1000px;
+    height: 40px;
+    margin-top:-40px;
+    font-size: 20px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 3px 2px 3px #333333;
+    background-color: #8AD9FF;
+        border-radius: 8px;
+}
+
+
+
+#menu ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+
+#menu li { 
+display: inline; 
+padding: 20px; 
+}
+
+
+#menu a {
+    text-decoration: none;
+    color: #00F;
+    padding: 8px 8px 8px 8px;
+}
+
+
+#menu a:hover {
+    color: #F90;
+    background-color: #FFF;
+}
+
+*{margin:0; padding:0;}
+#display{
+  background:hsla(90,100%,50%,.5);
+  height:21px;
+  width:1145px;
+  overflow:hidden;
+  position:relative;
+  margin-top:-20px;
+  margin-right:2px;
+  margin-left:2px;
+}
+#text{
+  background:hsla(90,100%,50%,.5);
+  cursor:pointer;
+  overflow:hidden;
+  position:absolute;
+  width:2200px;
+    margin-top:-10px;
+    
+ 
+  top:10px;
+}
